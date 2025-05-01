@@ -20,10 +20,10 @@ Backend-focused Full Stack Developer specializing in fintech, transaction manage
 - **COSEKE Banking** - Fintech solutions with Flutterwave integration
 
 ## 📊 GitHub Stats
-![Anglebert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anglebert-Dev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anglebert-Dev&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anglebert-Dev&theme=radical)](https://git.io/streak-stats)
-
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ntarindwabujuli&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ntarindwabujuli&theme=tokyonight" />
+</div>
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/anglebert-shumbusho-ishimwe-922275254/) |
 [Email](mailto:anglebertsh@gmail.com)
